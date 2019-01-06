@@ -1,0 +1,14 @@
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/bin/Debug/netcoreapp2.2/Yan.Tutorial.Web.deps.json
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/bin/Debug/netcoreapp2.2/Yan.Tutorial.Web.runtimeconfig.json
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/bin/Debug/netcoreapp2.2/Yan.Tutorial.Web.runtimeconfig.dev.json
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/bin/Debug/netcoreapp2.2/Yan.Tutorial.Web.dll
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/bin/Debug/netcoreapp2.2/Yan.Tutorial.Web.pdb
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.csprojAssemblyReference.cache
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.csproj.CoreCompileInputs.cache
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.RazorAssemblyInfo.cache
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.RazorAssemblyInfo.cs
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.AssemblyInfoInputs.cache
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.AssemblyInfo.cs
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.RazorTargetAssemblyInfo.cache
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.dll
+/Users/yanji/Documents/Yan.Tutorial/Yan.Tutorial.Web/obj/Debug/netcoreapp2.2/Yan.Tutorial.Web.pdb
